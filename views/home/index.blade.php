@@ -87,9 +87,9 @@
                             <a href="#prev" class="mini-prev"></a>
                             <div class="image ">
                                 <div class="product-mini-gallery">
-                                    {{HTML::image(product_image_url($newproduk->gambar1),'gambar1',array('width'=>'212','height'=>'281'))}}
-                                    {{HTML::image(product_image_url($newproduk->gambar2),'gambar2',array('width'=>'212','height'=>'281'))}}
-                                    {{HTML::image(product_image_url($newproduk->gambar3),'gambar3',array('width'=>'212','height'=>'281'))}}
+                                    {{HTML::image(product_image_url($newproduk->gambar1),'medium',array('width'=>'212'))}}
+                                    {{HTML::image(product_image_url($newproduk->gambar2),'medium',array('width'=>'212'))}}
+                                    {{HTML::image(product_image_url($newproduk->gambar3),'medium',array('width'=>'212'))}}
                                 </div>
                             </div>
                             <hr>
@@ -128,9 +128,9 @@
                             <a href="#prev" class="mini-prev"></a>
                             <div class="image ">
                                 <div class="product-mini-gallery">
-                                    {{HTML::image(product_image_url($homeproduk->gambar1),'gambar1',array('width'=>'212','height'=>'281'))}}
-                                    {{HTML::image(product_image_url($homeproduk->gambar2),'gambar2',array('width'=>'212','height'=>'281'))}}
-                                    {{HTML::image(product_image_url($homeproduk->gambar3),'gambar3',array('width'=>'212','height'=>'281'))}}
+                                    {{HTML::image(product_image_url($homeproduk->gambar1),'medium',array('width'=>'212'))}}
+                                    {{HTML::image(product_image_url($homeproduk->gambar2),'medium',array('width'=>'212'))}}
+                                    {{HTML::image(product_image_url($homeproduk->gambar3),'medium',array('width'=>'212'))}}
                                 </div>
                             </div>
                             <hr>
@@ -170,9 +170,9 @@
                             <a href="#prev" class="mini-prev"></a>
                             <div class="image ">
                                 <div class="product-mini-gallery">
-                                    {{HTML::image(product_image_url($listproduk->gambar1),'gambar1',array('width'=>'212','height'=>'281'))}}
-                                    {{HTML::image(product_image_url($listproduk->gambar2),'gambar2',array('width'=>'212','height'=>'281'))}}
-                                    {{HTML::image(product_image_url($listproduk->gambar3),'gambar3',array('width'=>'212','height'=>'281'))}}
+                                    {{HTML::image(product_image_url($listproduk->gambar1),'medium',array('width'=>'212'))}}
+                                    {{HTML::image(product_image_url($listproduk->gambar2),'medium',array('width'=>'212'))}}
+                                    {{HTML::image(product_image_url($listproduk->gambar3),'medium',array('width'=>'212'))}}
                                 </div>
                             </div>
                             <hr>
@@ -212,9 +212,9 @@
                             <a href="#prev" class="mini-prev"></a>
                             <div class="image ">
                                 <div class="product-mini-gallery">
-                                    {{HTML::image(product_image_url($bestproduk->gambar1),'gambar1',array('width'=>'212','height'=>'281'))}}
-                                    {{HTML::image(product_image_url($bestproduk->gambar2),'gambar2',array('width'=>'212','height'=>'281'))}}
-                                    {{HTML::image(product_image_url($bestproduk->gambar3),'gambar3',array('width'=>'212','height'=>'281'))}}
+                                    {{HTML::image(product_image_url($bestproduk->gambar1),'medium',array('width'=>'212'))}}
+                                    {{HTML::image(product_image_url($bestproduk->gambar2),'medium',array('width'=>'212'))}}
+                                    {{HTML::image(product_image_url($bestproduk->gambar3),'medium',array('width'=>'212'))}}
                                 </div>
                             </div>
                             <hr>
